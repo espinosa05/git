@@ -17,3 +17,9 @@ git commit -m "änderungs informationen"
 ```sh
 git push -u origin main
 ```
+
+## Lokalen Server starten
+```sh
+cd <webseitenverzeichnis>
+php -S 127.0.0.1:8080
+```
