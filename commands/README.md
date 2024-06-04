@@ -8,7 +8,7 @@ git pull --rebase
 ## Lokale Änderungen Aufzeichnen
 
 ```sh
-git add <datein oder Wurzelverzeichnis des Projekts>
+git add <dateien oder Wurzelverzeichnis des Projekts>
 git commit -m "änderungs informationen"
 ```
 
