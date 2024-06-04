@@ -113,5 +113,5 @@ ACHTUNG: Die lokalen Änderungen sollten nicht im Konflikt mit den Remote-Branch
 
 # Das War's
 
-Wenn ihr noch Fragen habt. Richtet euch an Mich oder dem Internet (ChatGPT ist, was solche Tools angeht, erstaunlich schlecht. Also lasst erstmal die Finger davon)
+Wenn ihr noch Fragen habt. Richtet euch an Mich oder an das Internet (ChatGPT ist, was solche Tools angeht, erstaunlich schlecht. Also lasst erstmal die Finger davon)
 
